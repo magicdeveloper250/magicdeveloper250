@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @magicdeveloper250
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on react
-- 📫 How to reach me on my emai impanodeveloper@proton.me
+- 💞️ I’m looking to collaborate on react, django, pyqt, ai and machine learning, and IOT
+- 📫 reach me on my email impanodeveloper@proton.me
  
 
 <!---
