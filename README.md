@@ -12,7 +12,7 @@
   <img src="./atelier/languages.b319189f.svg" width="49%" alt="Top languages"/>
 </p>
 
-<p align="center"><img src="./atelier/activity.aa0b4223.svg" width="100%" alt="Contribution activity"/></p>
+<p align="center"><img src="./atelier/activity.c28bdf4e.svg" width="100%" alt="Contribution activity"/></p>
 
 <p align="center">
   <a href="https://github.com/magicdeveloper250/smart-attendance"><img src="./atelier/repo-1.06d63ff9.svg" width="49%" alt="smart-attendance"/></a>
