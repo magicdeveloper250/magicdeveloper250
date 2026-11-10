@@ -12,7 +12,7 @@
   <img src="./atelier/languages.b319189f.svg" width="49%" alt="Top languages"/>
 </p>
 
-<p align="center"><img src="./atelier/activity.627a2d18.svg" width="100%" alt="Contribution activity"/></p>
+<p align="center"><img src="./atelier/activity.d3d1216a.svg" width="100%" alt="Contribution activity"/></p>
 
 <p align="center">
   <a href="https://github.com/magicdeveloper250/smart-attendance"><img src="./atelier/repo-1.06d63ff9.svg" width="49%" alt="smart-attendance"/></a>
@@ -21,6 +21,6 @@
   <a href="https://github.com/magicdeveloper250/rp-internship"><img src="./atelier/repo-4.3448e88c.svg" width="49%" alt="rp-internship"/></a>
 </p>
 
-<p align="center"><img src="./atelier/footer.c21ca057.svg" width="100%" alt="Footer"/></p>
+<p align="center"><img src="./atelier/footer.28690d2e.svg" width="100%" alt="Footer"/></p>
 
 <!-- readme-atelier:end -->
